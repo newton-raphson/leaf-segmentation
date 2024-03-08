@@ -1,3 +1,26 @@
+
+
+<!-- THIS NOTEBOOK  CONTAINS THE  INFORMATION OF WHAT IS DONE-->
+# Leaf Preprocessing and Transformation
+The goal is to perform some preprocess-ing of images obtained for leaves that may or may not be diseased
+[Notebook Link](./notebook_preprocessing/image_preprocessing_transformation.ipynb)
+
+**Sample Image**
+
+<img src="./data/leaves/I1.png" width="20%"> 
+
+
+</br>
+
+**Results**
+
+Original Histogram vs Prewhitened Histogram
+</br>
+
+<img src="./data/results/original_histogram.png" width="40%"> <img src="./data/results/prewhitened.png" width="40%"> 
+
+</br>
+</br>
 <!-- THIS NOTEBOOK  CONTAINS THE  INFORMATION OF WHAT IS DONE-->
 # LEAF SEGMENTATION
 We take complicated image of the adreapolis seedings and segment out the seedlings
@@ -21,27 +44,6 @@ We take complicated image of the adreapolis seedings and segment out the seedlin
 
 </br>
 </br>
-
-<!-- THIS NOTEBOOK  CONTAINS THE  INFORMATION OF WHAT IS DONE-->
-# Leaf Preprocessing and Transformation
-The goal is to perform some preprocess-ing of images obtained for leaves that may or may not be diseased
-[Notebook Link](./notebook_preprocessing/image_preprocessing_transformation.ipynb)
-
-**Sample Image**
-
-<img src="./data/leaves/I1.png" width="20%"> 
-
-
-</br>
-
-**Results**
-
-Original Histogram vs Prewhitened Histogram
-</br>
-
-<img src="./data/results/original_histogram.png" width="40%"> <img src="./data/results/prewhitened.png" width="40%"> 
-
-
 
 ## Acknowledgments
 
