@@ -22,7 +22,9 @@ Original Histogram vs Prewhitened Histogram
 </br>
 </br>
 <!-- THIS NOTEBOOK  CONTAINS THE  INFORMATION OF WHAT IS DONE-->
-# LEAF SEGMENTATION
+
+# LEAF SEGMENTATION 
+
 We take complicated image of the adreapolis seedings and segment out the seedlings
 [Notebook Link](./notebook_segementation/leafsegmentation.ipynb)
 
